@@ -84,4 +84,4 @@ contract Consumer is PluginClient, Ownable {
     }
   }
 
-}.0
+}
